@@ -1,3 +1,6 @@
+#cc-intro.js
+> This is a simple fork to include an update found in issue #210.
+
 # Intro.js
 
 > Better introductions for websites and features with a step-by-step guide for your projects.
