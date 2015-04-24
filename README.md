@@ -1,5 +1,5 @@
 #cc-intro.js
-> This is a simple fork to include an update found in issue #210.
+> This is a simple fork to include an update found in issue [#210](https://github.com/usablica/intro.js/issues/210).
 
 # Intro.js
 
