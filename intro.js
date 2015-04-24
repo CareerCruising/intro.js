@@ -1107,7 +1107,7 @@
     //set height
     elementPosition.height = element.offsetHeight;
 
-    // changes to lib
+    // cc-intro.js changes to lib
     var clientRect = element.getBoundingClientRect();
     elementPosition.top = clientRect.top;
     elementPosition.left = clientRect.left;
